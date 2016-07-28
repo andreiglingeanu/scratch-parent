@@ -5,6 +5,7 @@
 $manifest = array();
 
 $manifest['id'] = 'scratch';
+$manifest['github_update'] = 'andreiglingeanu/scratch-parent';
 
 $manifest['supported_extensions'] = array(
 	'page-builder' => array(),
