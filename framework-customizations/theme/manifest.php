@@ -6,7 +6,7 @@ $manifest = array();
 
 $manifest['id'] = 'scratch';
 $manifest['github_update'] = 'andreiglingeanu/scratch-parent';
-$manifest['version'] = '1.0.5';
+$manifest['version'] = '1.1.5';
 $manifest['new-trololo'] = 123;
 
 $manifest['supported_extensions'] = array(
